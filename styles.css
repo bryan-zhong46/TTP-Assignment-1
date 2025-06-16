@@ -1,0 +1,20 @@
+ body {
+   background-color: #59be22;
+   color: #000000;
+ }
+
+ h1 {
+   font-size: 24px;
+   color: #FF0000;
+ }
+
+ p {
+   font-size: 20px;
+ }
+
+ #header {
+    width:  100%;
+    height: 200px;
+    background-image: url(https://hernexxchapter.org/wp-content/uploads/2020/09/Self-care-Get-to-Know-Yourself.jpg);
+    background-size: contain;
+ }
